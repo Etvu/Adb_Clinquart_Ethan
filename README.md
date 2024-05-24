@@ -7,3 +7,4 @@ Utilisateur
 Admin
   Username : admin
   Mot de passe : azerty
+Nom de la bdd = adb_db
